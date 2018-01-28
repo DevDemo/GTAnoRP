@@ -1,4 +1,5 @@
-GTA V no Rules Play Server                  ![alt text](https://github.com/DevDemo/GTAnoRP/blob/master/Web/wwwroot/images/GTAnoRP-logo.png)
+GTA V no Rules Play Server project             
+![alt text](https://github.com/DevDemo/GTAnoRP/blob/master/Web/wwwroot/images/GTAnoRP-small.png)
 
 Script's comes from an early SA-MP gamemode.
 I thought it was a nice idea to bring the nostalgia back in GTA:V and decided to rework the original idea into a new gamemode for GTA:Network.
