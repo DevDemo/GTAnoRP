@@ -8,6 +8,8 @@ Features
 
 "Dynamic" means it can be altered within the game by Game Admins (so without touching code.)
 
+.NET Core 1.1.2 problems:
+Installing DotNetCore.1.0.5_1.1.2-WindowsHosting solved the problem https://go.microsoft.com/fwlink/?linkid=848766
 
 ### [v1.0]
 Added WebRTC voice chat.
